@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tech-newssite/static/css/main.40e9c296.css",
+    "main.js": "/react-tech-newssite/static/js/main.71979f69.js",
+    "static/js/787.fc9d613c.chunk.js": "/react-tech-newssite/static/js/787.fc9d613c.chunk.js",
+    "index.html": "/react-tech-newssite/index.html",
+    "main.40e9c296.css.map": "/react-tech-newssite/static/css/main.40e9c296.css.map",
+    "main.71979f69.js.map": "/react-tech-newssite/static/js/main.71979f69.js.map",
+    "787.fc9d613c.chunk.js.map": "/react-tech-newssite/static/js/787.fc9d613c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40e9c296.css",
+    "static/js/main.71979f69.js"
+  ]
+}
